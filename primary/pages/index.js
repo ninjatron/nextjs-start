@@ -1,8 +1,7 @@
 import Head from 'next/head'
 import styled from 'styled-components'
-import { useState } from 'react'; 
 // custom components
-import fakeData from './Data';
+import fakeData from '../public/Data';
 import Banner from './containers/Banner';
 import Posts from './containers/Posts';
 import Footer from './containers/Footer';
