@@ -1,2 +1,2 @@
 # nextjs-start
-This was for Primary.org
+This was a coding challenge for Primary.org
